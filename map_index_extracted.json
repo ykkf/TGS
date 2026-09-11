@@ -1,0 +1,2167 @@
+[
+  {
+    "booth": "06-N02",
+    "name": "06-N01",
+    "line": 14
+  },
+  {
+    "booth": "02-N07",
+    "name": "02-N08",
+    "line": 210
+  },
+  {
+    "booth": "02-S08",
+    "name": "02-S09",
+    "line": 212
+  },
+  {
+    "booth": "02-C09",
+    "name": "02-C10",
+    "line": 219
+  },
+  {
+    "booth": "02-C11",
+    "name": "02-C18",
+    "line": 220
+  },
+  {
+    "booth": "04-C03",
+    "name": "04-C08",
+    "line": 226
+  },
+  {
+    "booth": "04-S01",
+    "name": "04-S02",
+    "line": 234
+  },
+  {
+    "booth": "03-N07",
+    "name": "03-N04",
+    "line": 239
+  },
+  {
+    "booth": "02-C20",
+    "name": "02-C22",
+    "line": 242
+  },
+  {
+    "booth": "02-C07",
+    "name": "02-C06",
+    "line": 250
+  },
+  {
+    "booth": "01-C04",
+    "name": "01-C03",
+    "line": 259
+  },
+  {
+    "booth": "08-N07",
+    "name": "08-N05 08-N04 08-N03 08-N02 08-N01",
+    "line": 368
+  },
+  {
+    "booth": "08-N14",
+    "name": "08-N11",
+    "line": 371
+  },
+  {
+    "booth": "08-N08",
+    "name": "LEADJOY PixAI WAWE͓ͅ ʏ̢̢͈͜",
+    "line": 372
+  },
+  {
+    "booth": "08-C16",
+    "name": "08-C14",
+    "line": 392
+  },
+  {
+    "booth": "08-N06",
+    "name": "07-N08",
+    "line": 395
+  },
+  {
+    "booth": "08-C20",
+    "name": "08-C18",
+    "line": 398
+  },
+  {
+    "booth": "08-C03",
+    "name": "08-C04",
+    "line": 407
+  },
+  {
+    "booth": "08-C10",
+    "name": "08-C09 08-C08 08-C07",
+    "line": 408
+  },
+  {
+    "booth": "08-C13",
+    "name": "08-C12",
+    "line": 409
+  },
+  {
+    "booth": "08-S01",
+    "name": "07-S01",
+    "line": 438
+  },
+  {
+    "booth": "07-C06",
+    "name": "07-C03",
+    "line": 440
+  },
+  {
+    "booth": "06-C04",
+    "name": "06-C05",
+    "line": 445
+  },
+  {
+    "booth": "06-N04",
+    "name": "06-N03",
+    "line": 446
+  },
+  {
+    "booth": "05-C09",
+    "name": "05-C10",
+    "line": 466
+  },
+  {
+    "booth": "01-N55",
+    "name": "01-N56",
+    "line": 476
+  },
+  {
+    "booth": "01-N54",
+    "name": "01-N57",
+    "line": 477
+  },
+  {
+    "booth": "01-C15",
+    "name": "01-C09",
+    "line": 565
+  },
+  {
+    "booth": "01-C08",
+    "name": "01-C07",
+    "line": 566
+  },
+  {
+    "booth": "01-N29",
+    "name": "01-N30",
+    "line": 572
+  },
+  {
+    "booth": "01-N22",
+    "name": "01-N03",
+    "line": 579
+  },
+  {
+    "booth": "01-N16",
+    "name": "01-N12",
+    "line": 599
+  },
+  {
+    "booth": "01-C02",
+    "name": "01-C01",
+    "line": 633
+  },
+  {
+    "booth": "06-N03",
+    "name": "ROG(ASUS JAPAN)",
+    "line": 868
+  },
+  {
+    "booth": "06-C04",
+    "name": "AIQVE ONE",
+    "line": 872
+  },
+  {
+    "booth": "09-E13",
+    "name": "IGDA෌ྂ",
+    "line": 876
+  },
+  {
+    "booth": "01-N54",
+    "name": "ڮిقբ಄ࢳ",
+    "line": 877
+  },
+  {
+    "booth": "01-N09",
+    "name": "ڮి޸բ಄ࢳ",
+    "line": 878
+  },
+  {
+    "booth": "09-W113",
+    "name": "AI PikattoAnime",
+    "line": 881
+  },
+  {
+    "booth": "09-W34",
+    "name": "Akatsuki Taiwan",
+    "line": 886
+  },
+  {
+    "booth": "02-S02",
+    "name": "Axisray Lab",
+    "line": 888
+  },
+  {
+    "booth": "09-C53",
+    "name": "ASTRAȘAstro Productionș",
+    "line": 892
+  },
+  {
+    "booth": "07-C03",
+    "name": "Astrae Oratio",
+    "line": 893
+  },
+  {
+    "booth": "09-W31",
+    "name": "AssetHub",
+    "line": 895
+  },
+  {
+    "booth": "11-E01",
+    "name": "Azeron",
+    "line": 896
+  },
+  {
+    "booth": "01-N36",
+    "name": "ASO̬͔̪͆̀̔͌ʏஈ࿫ڮࣅ",
+    "line": 897
+  },
+  {
+    "booth": "09-E102",
+    "name": "Ashes of Bronze",
+    "line": 902
+  },
+  {
+    "booth": "09-W61",
+    "name": "AttendMe",
+    "line": 903
+  },
+  {
+    "booth": "09-C49",
+    "name": "Anarch Entertainment",
+    "line": 909
+  },
+  {
+    "booth": "01-N53",
+    "name": "࠸ଟ̶̡̢̼ஈ࿫ڮࣅ",
+    "line": 910
+  },
+  {
+    "booth": "09-W58",
+    "name": "AHIRU",
+    "line": 914
+  },
+  {
+    "booth": "11-W06",
+    "name": "Alliance & FnaticGear & Team Liquid &",
+    "line": 922
+  },
+  {
+    "booth": "10-W02",
+    "name": "Alpha CRC",
+    "line": 950
+  },
+  {
+    "booth": "01-C11",
+    "name": "Alaya Lab",
+    "line": 953
+  },
+  {
+    "booth": "10-E03",
+    "name": "Uncanny",
+    "line": 955
+  },
+  {
+    "booth": "11-C03",
+    "name": "AndGAMER ( Void Gaming&AIM1 )",
+    "line": 956
+  },
+  {
+    "booth": "10-E34",
+    "name": "EA SEMIȘSHANGHAIșTECH",
+    "line": 959
+  },
+  {
+    "booth": "09-C48",
+    "name": "ESDigital Games",
+    "line": 961
+  },
+  {
+    "booth": "10-W10",
+    "name": "e.m.y.c design",
+    "line": 962
+  },
+  {
+    "booth": "01-N41",
+    "name": "ECC̜͎̽͜ ʏ̨ஈ࿫ڮࣅ",
+    "line": 964
+  },
+  {
+    "booth": "10-E12",
+    "name": "Yeehe",
+    "line": 967
+  },
+  {
+    "booth": "10-W31",
+    "name": "ʷʷˋ˶̆",
+    "line": 968
+  },
+  {
+    "booth": "09-C67",
+    "name": "iGi indie Game incubator ʈ௉໡",
+    "line": 970
+  },
+  {
+    "booth": "05-C07",
+    "name": "Italy Pavilion",
+    "line": 974
+  },
+  {
+    "booth": "05-C07",
+    "name": "Megalith Interactive Studios",
+    "line": 983
+  },
+  {
+    "booth": "09-C66",
+    "name": "Immersive Media COSS",
+    "line": 988
+  },
+  {
+    "booth": "01-N25",
+    "name": "׺ڮ॒ܘ",
+    "line": 989
+  },
+  {
+    "booth": "09-W02",
+    "name": "Insert Coin Japan",
+    "line": 992
+  },
+  {
+    "booth": "11-C05",
+    "name": "Insta360",
+    "line": 994
+  },
+  {
+    "booth": "09-E21",
+    "name": "INDIE LIVE EXPO",
+    "line": 996
+  },
+  {
+    "booth": "10-C06",
+    "name": "VAMOS",
+    "line": 1002
+  },
+  {
+    "booth": "03-C06",
+    "name": "Vrgineers",
+    "line": 1004
+  },
+  {
+    "booth": "02-S05",
+    "name": "VTC MOBILE SERVICES",
+    "line": 1011
+  },
+  {
+    "booth": "02-C11",
+    "name": "Winking Studios",
+    "line": 1012
+  },
+  {
+    "booth": "11-C06",
+    "name": "Wooting",
+    "line": 1013
+  },
+  {
+    "booth": "09-E70",
+    "name": "Wales Pavilion",
+    "line": 1014
+  },
+  {
+    "booth": "09-E108",
+    "name": "Venn Studios",
+    "line": 1025
+  },
+  {
+    "booth": "09-E95",
+    "name": "Walker Industries",
+    "line": 1026
+  },
+  {
+    "booth": "11-E17",
+    "name": "Warsong Technology",
+    "line": 1027
+  },
+  {
+    "booth": "09-W64",
+    "name": "Wovn Technologies",
+    "line": 1028
+  },
+  {
+    "booth": "11-W10",
+    "name": "vaultroom",
+    "line": 1030
+  },
+  {
+    "booth": "02-N10",
+    "name": "ULTRANOVA Entertainment",
+    "line": 1033
+  },
+  {
+    "booth": "09-W26",
+    "name": "A.O.M.",
+    "line": 1036
+  },
+  {
+    "booth": "06-C04",
+    "name": "EIGHTING",
+    "line": 1039
+  },
+  {
+    "booth": "11-E13",
+    "name": "eXtremeRate",
+    "line": 1042
+  },
+  {
+    "booth": "11-E08",
+    "name": "EXE ARENA",
+    "line": 1043
+  },
+  {
+    "booth": "01-N04",
+    "name": "SCAD (Savannah College of Art and Design)",
+    "line": 1047
+  },
+  {
+    "booth": "09-E48",
+    "name": "XD",
+    "line": 1052
+  },
+  {
+    "booth": "11-E18",
+    "name": "XPPen",
+    "line": 1053
+  },
+  {
+    "booth": "10-W18",
+    "name": "ADIA Studios",
+    "line": 1056
+  },
+  {
+    "booth": "09-E27",
+    "name": "Edentopia",
+    "line": 1057
+  },
+  {
+    "booth": "09-E53",
+    "name": "Edcorp",
+    "line": 1058
+  },
+  {
+    "booth": "02-C22",
+    "name": "EnigmatrixGames",
+    "line": 1059
+  },
+  {
+    "booth": "02-S08",
+    "name": "NHN JAPAN",
+    "line": 1060
+  },
+  {
+    "booth": "09-E93",
+    "name": "NGJ",
+    "line": 1063
+  },
+  {
+    "booth": "09-W66",
+    "name": "FMC",
+    "line": 1065
+  },
+  {
+    "booth": "11-C01",
+    "name": "EPOMAKER",
+    "line": 1067
+  },
+  {
+    "booth": "09-C68",
+    "name": "MKstudio",
+    "line": 1068
+  },
+  {
+    "booth": "09-E04",
+    "name": "MY̞ʏ̢̼",
+    "line": 1070
+  },
+  {
+    "booth": "04-C05",
+    "name": "AREA 35",
+    "line": 1071
+  },
+  {
+    "booth": "10-W14",
+    "name": "ElEngine",
+    "line": 1074
+  },
+  {
+    "booth": "09-E20",
+    "name": "ʻ̆˧˗̛ʏ͉̣",
+    "line": 1079
+  },
+  {
+    "booth": "01-N35",
+    "name": "OECU eSportsȘి्ഷܶೠ૬ిڮș",
+    "line": 1080
+  },
+  {
+    "booth": "09-W85",
+    "name": "OSJ",
+    "line": 1081
+  },
+  {
+    "booth": "11-E03",
+    "name": "AULA",
+    "line": 1085
+  },
+  {
+    "booth": "06-C02",
+    "name": "AORUS",
+    "line": 1086
+  },
+  {
+    "booth": "01-N31",
+    "name": "ఘശૐ༻આقஈ࿫ڮࣅ",
+    "line": 1090
+  },
+  {
+    "booth": "01-N19",
+    "name": "ֻڮॹૐ༻̶̡̢̼ؤ",
+    "line": 1092
+  },
+  {
+    "booth": "11-E06",
+    "name": "ֻຬڮॹిؤ",
+    "line": 1093
+  },
+  {
+    "booth": "09-C24",
+    "name": "Optillusion Games",
+    "line": 1097
+  },
+  {
+    "booth": "09-C57",
+    "name": "offbrand games",
+    "line": 1099
+  },
+  {
+    "booth": "10-E05",
+    "name": "Original Force",
+    "line": 1100
+  },
+  {
+    "booth": "09-W45",
+    "name": "Online Station & gamescom asia x",
+    "line": 1102
+  },
+  {
+    "booth": "11-C02",
+    "name": "KARNOX",
+    "line": 1104
+  },
+  {
+    "booth": "02-C18",
+    "name": "م˄ަ̛ʏ͉̣",
+    "line": 1106
+  },
+  {
+    "booth": "09-W104",
+    "name": "৓ি൙ࡕևजচ",
+    "line": 1107
+  },
+  {
+    "booth": "10-E37",
+    "name": "୻ࡈ৓൙",
+    "line": 1108
+  },
+  {
+    "booth": "02-C21",
+    "name": "GALLERIAȘ̞ʏ̲̏̐ʏ̿ș",
+    "line": 1175
+  },
+  {
+    "booth": "02-C15",
+    "name": "޸ஊૅঀ",
+    "line": 1176
+  },
+  {
+    "booth": "01-N37",
+    "name": "ࡢهഷঘ̶̡̢̼ஈ࿫ڮࣅ",
+    "line": 1177
+  },
+  {
+    "booth": "10-E31",
+    "name": "GUIZHOU FUDING RUBBER AND PLASTIC ಜࣻ",
+    "line": 1186
+  },
+  {
+    "booth": "09-C03",
+    "name": "Kipwak Studio",
+    "line": 1187
+  },
+  {
+    "booth": "10-E19",
+    "name": "KIBUʈGateronʈEWEADNʈWAIZOWLʈMelGeek",
+    "line": 1188
+  },
+  {
+    "booth": "09-C64",
+    "name": "GYAAR Studio",
+    "line": 1190
+  },
+  {
+    "booth": "04-C08",
+    "name": "C#4R4CT3R",
+    "line": 1192
+  },
+  {
+    "booth": "11-E12",
+    "name": "CANVY",
+    "line": 1193
+  },
+  {
+    "booth": "01-N34",
+    "name": "ڮి޸ਥঀߕ",
+    "line": 1195
+  },
+  {
+    "booth": "09-E88",
+    "name": "GYEONGNAM GLOBAL GAME CENTER ࣻ܎",
+    "line": 1196
+  },
+  {
+    "booth": "01-C06",
+    "name": "King's Raid",
+    "line": 1200
+  },
+  {
+    "booth": "09-C37",
+    "name": "KOOAPPS PHILIPPINES",
+    "line": 1201
+  },
+  {
+    "booth": "07-N08",
+    "name": "Google Play",
+    "line": 1202
+  },
+  {
+    "booth": "09-C61",
+    "name": "KUU",
+    "line": 1207
+  },
+  {
+    "booth": "10-W33",
+    "name": "֤඾ಅࡕࡕྂߵ",
+    "line": 1210
+  },
+  {
+    "booth": "01-N51",
+    "name": "ࣅڮ࣬൫޸ၩഩ௪ࢳࡕྂߵ /ഩ௪চ",
+    "line": 1212
+  },
+  {
+    "booth": "10-W29",
+    "name": "ྂচߵ",
+    "line": 1213
+  },
+  {
+    "booth": "10-C06",
+    "name": "CLUTCHY",
+    "line": 1215
+  },
+  {
+    "booth": "07-C05",
+    "name": "Graph",
+    "line": 1217
+  },
+  {
+    "booth": "10-W30",
+    "name": "GRAPHT",
+    "line": 1218
+  },
+  {
+    "booth": "09-E31",
+    "name": "Crico",
+    "line": 1223
+  },
+  {
+    "booth": "09-E38",
+    "name": "GRIM RONIN",
+    "line": 1225
+  },
+  {
+    "booth": "10-W10",
+    "name": "CREPORT",
+    "line": 1226
+  },
+  {
+    "booth": "09-E84",
+    "name": "Kurosawa Studios",
+    "line": 1228
+  },
+  {
+    "booth": "08-N13",
+    "name": "ࡕ෽ࠀ",
+    "line": 1229
+  },
+  {
+    "booth": "01-N14",
+    "name": "KCS ㄋ JOHO",
+    "line": 1230
+  },
+  {
+    "booth": "09-W98",
+    "name": "Kmood",
+    "line": 1234
+  },
+  {
+    "booth": "06-N01",
+    "name": "Game Carrot",
+    "line": 1237
+  },
+  {
+    "booth": "02-C17",
+    "name": "Gamesir",
+    "line": 1239
+  },
+  {
+    "booth": "09-W120",
+    "name": "GAMES GLORIOUS",
+    "line": 1240
+  },
+  {
+    "booth": "02-C06",
+    "name": "Yacooba",
+    "line": 1277
+  },
+  {
+    "booth": "09-E80",
+    "name": "GameTeahouse&WiseGames",
+    "line": 1282
+  },
+  {
+    "booth": "09-W60",
+    "name": "GAMEDEX",
+    "line": 1283
+  },
+  {
+    "booth": "09-C47",
+    "name": "KIC Games",
+    "line": 1286
+  },
+  {
+    "booth": "08-C04",
+    "name": "K-SILVER",
+    "line": 1288
+  },
+  {
+    "booth": "09-C74",
+    "name": "KDDI̷̡̯̘͖ ʏ",
+    "line": 1289
+  },
+  {
+    "booth": "07-N06",
+    "name": "Keimyung University",
+    "line": 1290
+  },
+  {
+    "booth": "02-C10",
+    "name": "Genki",
+    "line": 1294
+  },
+  {
+    "booth": "09-C08",
+    "name": "ࢳ٠ං̢̨̡̓",
+    "line": 1299
+  },
+  {
+    "booth": "10-E03",
+    "name": "Godot Engine",
+    "line": 1306
+  },
+  {
+    "booth": "09-C46",
+    "name": "Cometa Games",
+    "line": 1310
+  },
+  {
+    "booth": "03-C03",
+    "name": "NANOO COMPANY",
+    "line": 1336
+  },
+  {
+    "booth": "01-N59",
+    "name": "ˈʷ˒˱ITʈWEBࣅڮஈ࿫",
+    "line": 1350
+  },
+  {
+    "booth": "02-S01",
+    "name": "Silent Bark Games",
+    "line": 1356
+  },
+  {
+    "booth": "06-C04",
+    "name": "SapWorks",
+    "line": 1359
+  },
+  {
+    "booth": "11-E24",
+    "name": "Sapientia Technology(Shenzhen)",
+    "line": 1362
+  },
+  {
+    "booth": "09-C40",
+    "name": "Subway: 0% Escape (͔̯ͅʏ̡",
+    "line": 1364
+  },
+  {
+    "booth": "08-C07",
+    "name": "Samurai Cats: Meow Order",
+    "line": 1368
+  },
+  {
+    "booth": "10-E30",
+    "name": "ॶრഷঘ",
+    "line": 1375
+  },
+  {
+    "booth": "09-W81",
+    "name": "CRIʈ͈̲͔̏̐̋",
+    "line": 1376
+  },
+  {
+    "booth": "09-C73",
+    "name": "C&R Creative Studios",
+    "line": 1379
+  },
+  {
+    "booth": "07-N05",
+    "name": "GMI Cloud Japan",
+    "line": 1382
+  },
+  {
+    "booth": "09-E39",
+    "name": "GGSelect",
+    "line": 1385
+  },
+  {
+    "booth": "10-W06",
+    "name": "G-STAR Organizing Committee",
+    "line": 1387
+  },
+  {
+    "booth": "09-W29",
+    "name": "JOCDN",
+    "line": 1392
+  },
+  {
+    "booth": "08-N14",
+    "name": "Shenzhen KTC Technology",
+    "line": 1396
+  },
+  {
+    "booth": "10-C09",
+    "name": "Shanghai Flydigi Electronics Tech",
+    "line": 1406
+  },
+  {
+    "booth": "08-N06",
+    "name": "G TUNEʈNEXTGEAR(̢͇̜͎̏̽͜ʏ̨ʏ",
+    "line": 1407
+  },
+  {
+    "booth": "10-E17",
+    "name": "ʞ਋भ৸٠ܟʟTop Game Creators AcademyȘTGCAș",
+    "line": 1409
+  },
+  {
+    "booth": "04-C02",
+    "name": "ઞಓ",
+    "line": 1413
+  },
+  {
+    "booth": "01-N03",
+    "name": "ڮిقથ඾ࢳ",
+    "line": 1414
+  },
+  {
+    "booth": "01-C08",
+    "name": "ڮ׺ిڮઐຊ",
+    "line": 1415
+  },
+  {
+    "booth": "09-E25",
+    "name": "JOSHIBI_GAMES powered by AISIS",
+    "line": 1416
+  },
+  {
+    "booth": "11-C04",
+    "name": "SHENZHEN TOMTOC TECHNOLOGY",
+    "line": 1421
+  },
+  {
+    "booth": "09-E46",
+    "name": "Cinderia",
+    "line": 1422
+  },
+  {
+    "booth": "09-W36",
+    "name": "Shinwork Technology",
+    "line": 1423
+  },
+  {
+    "booth": "08-C10",
+    "name": "Sichuan Digital Publishing & Media ಜࣻ",
+    "line": 1424
+  },
+  {
+    "booth": "08-C09",
+    "name": "Sichuan Provincial Game Innovation and",
+    "line": 1425
+  },
+  {
+    "booth": "02-N03",
+    "name": "݁ମ",
+    "line": 1429
+  },
+  {
+    "booth": "09-E87",
+    "name": "Sweden Game Arena",
+    "line": 1430
+  },
+  {
+    "booth": "09-E73",
+    "name": "SclObo",
+    "line": 1457
+  },
+  {
+    "booth": "09-E104",
+    "name": "SUKEBAN GAMES",
+    "line": 1458
+  },
+  {
+    "booth": "09-E37",
+    "name": "Starpunk Studio",
+    "line": 1460
+  },
+  {
+    "booth": "11-W05",
+    "name": "STARFORGED",
+    "line": 1461
+  },
+  {
+    "booth": "10-C04",
+    "name": "SPYGEA",
+    "line": 1472
+  },
+  {
+    "booth": "10-E03",
+    "name": "SpriteStudio:CRIware",
+    "line": 1474
+  },
+  {
+    "booth": "09-C41",
+    "name": "Space Drilling Station",
+    "line": 1476
+  },
+  {
+    "booth": "09-C22",
+    "name": "373 STUDIO",
+    "line": 1483
+  },
+  {
+    "booth": "03-C04",
+    "name": "ZETA DIVISION",
+    "line": 1489
+  },
+  {
+    "booth": "09-C39",
+    "name": "Second Win Games",
+    "line": 1494
+  },
+  {
+    "booth": "09-E69",
+    "name": "ߡـ܌",
+    "line": 1495
+  },
+  {
+    "booth": "10-C06",
+    "name": "XEST",
+    "line": 1496
+  },
+  {
+    "booth": "10-C01",
+    "name": "ZeroBankX Japan",
+    "line": 1499
+  },
+  {
+    "booth": "09-W99",
+    "name": "Sentry",
+    "line": 1502
+  },
+  {
+    "booth": "01-N32",
+    "name": "ஈ࿫ڮࣅి्̰̟̳̍ʏʈ̰͈̋̔ʏ",
+    "line": 1503
+  },
+  {
+    "booth": "01-N12",
+    "name": "ஈ࿫ڮࣅࣻॅၟࢳ̡͕̬̔",
+    "line": 1504
+  },
+  {
+    "booth": "01-N22",
+    "name": "ஈ࿫ڮࣅ൞ސ̘ʏ̡͔̺͌͜ʈ̰͈̋̔ʏ",
+    "line": 1505
+  },
+  {
+    "booth": "01-N33",
+    "name": "ஈ࿫ڮࣅིٺඋ̞̹̍ʏ̨̘͓̑̍ʏ̣ి",
+    "line": 1506
+  },
+  {
+    "booth": "01-N02",
+    "name": "ஈ࿫ڮࣅྨ၊̶̡̢̡̼͕̬̔",
+    "line": 1508
+  },
+  {
+    "booth": "01-N56",
+    "name": "௧ࣱڮ׺̻͎ʏ͇̰͈̋̔͜ʏ",
+    "line": 1509
+  },
+  {
+    "booth": "01-N46",
+    "name": "௉জڮ׺ȗ̘͒ʏ̘ NEXT࣬ࣅڮ൫",
+    "line": 1510
+  },
+  {
+    "booth": "09-W20",
+    "name": "Soulart",
+    "line": 1511
+  },
+  {
+    "booth": "09-E28",
+    "name": "Sola",
+    "line": 1517
+  },
+  {
+    "booth": "09-E43",
+    "name": "SoloGame",
+    "line": 1521
+  },
+  {
+    "booth": "11-E16",
+    "name": "DarkBeacon",
+    "line": 1522
+  },
+  {
+    "booth": "11-E34",
+    "name": "Darlin",
+    "line": 1523
+  },
+  {
+    "booth": "09-W35",
+    "name": "TAITRA",
+    "line": 1526
+  },
+  {
+    "booth": "04-C09",
+    "name": "Taipei Game Show",
+    "line": 1529
+  },
+  {
+    "booth": "09-C33",
+    "name": "Taiwan Indie Showcase (powered by ADI) ా ჯ",
+    "line": 1530
+  },
+  {
+    "booth": "06-C03",
+    "name": "ܣౙ୊ഷ",
+    "line": 1539
+  },
+  {
+    "booth": "09-E33",
+    "name": "Dungeon Settlers",
+    "line": 1546
+  },
+  {
+    "booth": "08-N20",
+    "name": "DUNLOP",
+    "line": 1547
+  },
+  {
+    "booth": "02-C18",
+    "name": "Team17",
+    "line": 1549
+  },
+  {
+    "booth": "09-W107",
+    "name": "Checkout",
+    "line": 1552
+  },
+  {
+    "booth": "01-N49",
+    "name": "ಜؕૐ༻ిڮࣅ",
+    "line": 1555
+  },
+  {
+    "booth": "02-C19",
+    "name": "Jeonbuk Global Game Center",
+    "line": 1572
+  },
+  {
+    "booth": "09-E83",
+    "name": "Chin-Chan",
+    "line": 1577
+  },
+  {
+    "booth": "09-W52",
+    "name": "2itz Studio",
+    "line": 1578
+  },
+  {
+    "booth": "08-C12",
+    "name": "DITP (Thailand Pavilion)",
+    "line": 1581
+  },
+  {
+    "booth": "10-W01",
+    "name": "DFGC",
+    "line": 1606
+  },
+  {
+    "booth": "03-N04",
+    "name": "DMM GAMESȘEXNOAș",
+    "line": 1607
+  },
+  {
+    "booth": "09-E60",
+    "name": "TCA GAME STUDIO",
+    "line": 1610
+  },
+  {
+    "booth": "10-E27",
+    "name": "TTC",
+    "line": 1612
+  },
+  {
+    "booth": "09-W80",
+    "name": "Diarkis",
+    "line": 1614
+  },
+  {
+    "booth": "09-E81",
+    "name": "DICO",
+    "line": 1616
+  },
+  {
+    "booth": "01-N62",
+    "name": "TBCֻڮ ࣻॅ ૐ༻̶̡̢̼ஈ࿫ڮࣅ",
+    "line": 1620
+  },
+  {
+    "booth": "09-E29",
+    "name": "Tails of Fate",
+    "line": 1621
+  },
+  {
+    "booth": "08-N11",
+    "name": "TECOPARK",
+    "line": 1625
+  },
+  {
+    "booth": "09-C62",
+    "name": "TECH.C. GAME PROJECT",
+    "line": 1631
+  },
+  {
+    "booth": "03-N02",
+    "name": "Defi os",
+    "line": 1649
+  },
+  {
+    "booth": "02-C18",
+    "name": "Devolver Digital",
+    "line": 1651
+  },
+  {
+    "booth": "09-C52",
+    "name": "TERLETSKI GAMES",
+    "line": 1655
+  },
+  {
+    "booth": "09-C01",
+    "name": "TENGO PROJECT",
+    "line": 1656
+  },
+  {
+    "booth": "09-W68",
+    "name": "Tokenz",
+    "line": 1662
+  },
+  {
+    "booth": "09-E103",
+    "name": "Total Mayhem Games",
+    "line": 1664
+  },
+  {
+    "booth": "11-W08",
+    "name": "TORCH TORCH",
+    "line": 1665
+  },
+  {
+    "booth": "08-C08",
+    "name": "DOBE",
+    "line": 1667
+  },
+  {
+    "booth": "11-W07",
+    "name": "TOYPLA",
+    "line": 1670
+  },
+  {
+    "booth": "09-E98",
+    "name": "൞ס̛ʏ͉̣",
+    "line": 1674
+  },
+  {
+    "booth": "09-C19",
+    "name": "ݰ൞",
+    "line": 1675
+  },
+  {
+    "booth": "08-N16",
+    "name": "TOKYO MXʜ࿲ശ̘͓ˡ࿲ཤʝ",
+    "line": 1676
+  },
+  {
+    "booth": "10-E36",
+    "name": "ޱسސ൞",
+    "line": 1677
+  },
+  {
+    "booth": "09-E08",
+    "name": "ڮిقࢳސ൞",
+    "line": 1678
+  },
+  {
+    "booth": "01-N44",
+    "name": "ࣅڮ࣬൫޸০ސ൞",
+    "line": 1680
+  },
+  {
+    "booth": "01-N29",
+    "name": "ڮૐ༻ిސ൞",
+    "line": 1681
+  },
+  {
+    "booth": "09-E09",
+    "name": "൞ސૐ༻̰̟̍͜ஈ࿫૤ిڮ",
+    "line": 1682
+  },
+  {
+    "booth": "01-N18",
+    "name": "ڮെচిސ൞",
+    "line": 1683
+  },
+  {
+    "booth": "02-N09",
+    "name": "൞͕̀",
+    "line": 1685
+  },
+  {
+    "booth": "01-N57",
+    "name": "٠̴̋͊ס׺ڮ൞ང CGࣅڮஈ࿫",
+    "line": 1686
+  },
+  {
+    "booth": "01-N40",
+    "name": "൞ིഷঘஈ࿫ڮࣅ",
+    "line": 1689
+  },
+  {
+    "booth": "09-W10",
+    "name": "09-W12",
+    "line": 1766
+  },
+  {
+    "booth": "09-W16",
+    "name": "09-W15",
+    "line": 1779
+  },
+  {
+    "booth": "09-C61",
+    "name": "̛̠͓͔̋",
+    "line": 1797
+  },
+  {
+    "booth": "09-C58",
+    "name": "09-E60",
+    "line": 1801
+  },
+  {
+    "booth": "09-E62",
+    "name": "09-E63",
+    "line": 1802
+  },
+  {
+    "booth": "09-C64",
+    "name": "TECH.C. GAME",
+    "line": 1806
+  },
+  {
+    "booth": "09-C70",
+    "name": "09-C69",
+    "line": 1825
+  },
+  {
+    "booth": "09-E70",
+    "name": "09-E74",
+    "line": 1854
+  },
+  {
+    "booth": "09-E100",
+    "name": "09-E103",
+    "line": 1858
+  },
+  {
+    "booth": "09-E86",
+    "name": "09-E87",
+    "line": 1877
+  },
+  {
+    "booth": "09-E66",
+    "name": "09-E67",
+    "line": 1901
+  },
+  {
+    "booth": "10-E17",
+    "name": "10-E16",
+    "line": 1915
+  },
+  {
+    "booth": "10-E01",
+    "name": "10-E07",
+    "line": 2008
+  },
+  {
+    "booth": "09-C75",
+    "name": "09-C74",
+    "line": 2024
+  },
+  {
+    "booth": "10-C01",
+    "name": "10-C04",
+    "line": 2041
+  },
+  {
+    "booth": "10-E22",
+    "name": "10-E24 10-E25",
+    "line": 2078
+  },
+  {
+    "booth": "10-E20",
+    "name": "10-C08",
+    "line": 2080
+  },
+  {
+    "booth": "11-E02",
+    "name": "11-E03 11-C01 11-C02",
+    "line": 2107
+  },
+  {
+    "booth": "11-E12",
+    "name": "11-E13",
+    "line": 2111
+  },
+  {
+    "booth": "11-C04",
+    "name": "11-C05",
+    "line": 2137
+  },
+  {
+    "booth": "10-E37",
+    "name": "10-E36 10-E35",
+    "line": 2157
+  },
+  {
+    "booth": "09-W94",
+    "name": "09-W95",
+    "line": 2198
+  },
+  {
+    "booth": "09-W111",
+    "name": "̛̬͆̽͜ʏ̡͉̣̺̖͌͜",
+    "line": 2207
+  },
+  {
+    "booth": "09-W108",
+    "name": "̢̺̜̰͒̾̌͜͜͜",
+    "line": 2212
+  },
+  {
+    "booth": "09-W22",
+    "name": "09-W23 09-W24 09-W25 09-W26 09-W27 09-W28 09-W29",
+    "line": 2218
+  },
+  {
+    "booth": "09-W41",
+    "name": "09-W42 09-W43 09-W44 09-W45 09-W46 09-W47",
+    "line": 2221
+  },
+  {
+    "booth": "09-W37",
+    "name": "09-W36 09-W35 09-W34 09-W33 09-W32 09-W31 09-W30",
+    "line": 2224
+  },
+  {
+    "booth": "10-W33",
+    "name": "10-W35",
+    "line": 2318
+  },
+  {
+    "booth": "09-W02",
+    "name": "09-W03",
+    "line": 2334
+  },
+  {
+    "booth": "09-W13",
+    "name": "09-W14",
+    "line": 2337
+  },
+  {
+    "booth": "11-W01",
+    "name": "11-W02",
+    "line": 2351
+  },
+  {
+    "booth": "11-W06",
+    "name": "11-W07",
+    "line": 2361
+  },
+  {
+    "booth": "11-W11",
+    "name": "11-W12",
+    "line": 2367
+  },
+  {
+    "booth": "11-W13",
+    "name": "11-W15",
+    "line": 2379
+  },
+  {
+    "booth": "09-E11",
+    "name": "09-",
+    "line": 2452
+  },
+  {
+    "booth": "09-E39",
+    "name": "09-E42",
+    "line": 2502
+  },
+  {
+    "booth": "09-C57",
+    "name": "09-C54̸͓̦͘͜",
+    "line": 2607
+  },
+  {
+    "booth": "09-E49",
+    "name": "09-E52",
+    "line": 2662
+  },
+  {
+    "booth": "09-E57",
+    "name": "09-E59 09-E58",
+    "line": 2666
+  },
+  {
+    "booth": "09-W55",
+    "name": "09-W54 09-W53 09-W52 09-W51 09-W50 09-W49 09-W48",
+    "line": 2734
+  },
+  {
+    "booth": "09-W56",
+    "name": "09-W57 09-W58 09-W59 09-W60 09-W61 09-W62",
+    "line": 2744
+  },
+  {
+    "booth": "09-W68",
+    "name": "09-W67 09-W66 09-W65 09-W64 09-W63",
+    "line": 2751
+  },
+  {
+    "booth": "09-W82",
+    "name": "09-W84 09-W85 09-W86 09-W87",
+    "line": 2755
+  },
+  {
+    "booth": "09-W93",
+    "name": "09-W90",
+    "line": 2761
+  },
+  {
+    "booth": "09-W72",
+    "name": "09-W73 09-W74 09-W75 09-W76 09-W77",
+    "line": 2766
+  },
+  {
+    "booth": "09-W81",
+    "name": "09-W78",
+    "line": 2770
+  },
+  {
+    "booth": "01-N15",
+    "name": "൞ူຊ੓ڮࣅ",
+    "line": 3045
+  },
+  {
+    "booth": "09-W65",
+    "name": "ֱਿ",
+    "line": 3046
+  },
+  {
+    "booth": "08-N07",
+    "name": "Top Hat Studios",
+    "line": 3047
+  },
+  {
+    "booth": "01-N63",
+    "name": "ໃॹૐ༻̶̡̢̼ஈ࿫ڮࣅ",
+    "line": 3050
+  },
+  {
+    "booth": "09-C58",
+    "name": "DRECOM CREATORS STUDIO",
+    "line": 3055
+  },
+  {
+    "booth": "10-E23",
+    "name": "Dongguan Gaoxd Precision Industry ಜࣻ",
+    "line": 3059
+  },
+  {
+    "booth": "10-E32",
+    "name": "Dongguan 3e Electronics",
+    "line": 3060
+  },
+  {
+    "booth": "10-E21",
+    "name": "Dongguan FlashFire Digital Technology ಜࣻ",
+    "line": 3061
+  },
+  {
+    "booth": "09-C51",
+    "name": "Nao Games",
+    "line": 3062
+  },
+  {
+    "booth": "01-N08",
+    "name": "ࣅڮஈ࿫ֻڮࢳبࡱ࿂",
+    "line": 3064
+  },
+  {
+    "booth": "01-N23",
+    "name": "࿂بࡱૐ༻̰͊̌̋ஈ࿫ڮࣅ",
+    "line": 3065
+  },
+  {
+    "booth": "09-C35",
+    "name": "Nalua Studio",
+    "line": 3066
+  },
+  {
+    "booth": "01-N01",
+    "name": "૵ڹ̜͎̽͜ʏ̨ஈ࿫ڮࣅ",
+    "line": 3067
+  },
+  {
+    "booth": "10-W16",
+    "name": "চڹ૵",
+    "line": 3068
+  },
+  {
+    "booth": "10-W24",
+    "name": "ࠞ෌ Gaming",
+    "line": 3070
+  },
+  {
+    "booth": "01-C07",
+    "name": "෌ྂ IBM",
+    "line": 3076
+  },
+  {
+    "booth": "01-C16",
+    "name": "෌̛ྂʏ͉ిા",
+    "line": 3077
+  },
+  {
+    "booth": "01-C01",
+    "name": "ڮిقࢳސʈ൞ֻڮ෌ྂࢳ",
+    "line": 3079
+  },
+  {
+    "booth": "01-C09",
+    "name": "෌ྂഷঘஈ࿫ڮࣅ",
+    "line": 3080
+  },
+  {
+    "booth": "11-E06",
+    "name": "෌ྂഷঘஈ࿫ڮࣅ Project Allcea",
+    "line": 3081
+  },
+  {
+    "booth": "09-E34",
+    "name": "NEOGULLAB",
+    "line": 3088
+  },
+  {
+    "booth": "08-C20",
+    "name": "NeoBards Entertainment",
+    "line": 3089
+  },
+  {
+    "booth": "09-E86",
+    "name": "Neon Noroshi",
+    "line": 3090
+  },
+  {
+    "booth": "09-E68",
+    "name": "NexTone",
+    "line": 3091
+  },
+  {
+    "booth": "02-N12",
+    "name": "netmarble",
+    "line": 3097
+  },
+  {
+    "booth": "08-C14",
+    "name": "Norwegian Games",
+    "line": 3100
+  },
+  {
+    "booth": "09-W90",
+    "name": "BytePlus Japan",
+    "line": 3112
+  },
+  {
+    "booth": "02-C14",
+    "name": "HYPER REAL",
+    "line": 3114
+  },
+  {
+    "booth": "09-C31",
+    "name": "HIGHFIVE DOG",
+    "line": 3116
+  },
+  {
+    "booth": "11-C06",
+    "name": "HYPESHOP",
+    "line": 3117
+  },
+  {
+    "booth": "09-E36",
+    "name": "Bustr Media Enterprise ̴̱͓̩ ʏ̲ʈ̱̹̝",
+    "line": 3120
+  },
+  {
+    "booth": "09-C17",
+    "name": "BASSAI-DAI",
+    "line": 3123
+  },
+  {
+    "booth": "09-W70",
+    "name": "׃ശ̡͖̘̱̀̐",
+    "line": 3127
+  },
+  {
+    "booth": "02-C20",
+    "name": "Pulsar Gaming Gears",
+    "line": 3138
+  },
+  {
+    "booth": "10-E28",
+    "name": "PUNK WORKSHOP",
+    "line": 3142
+  },
+  {
+    "booth": "11-C06",
+    "name": "BANDAL GAMING",
+    "line": 3148
+  },
+  {
+    "booth": "11-E11",
+    "name": "੬ݸࡒ஽ܤڮ֡๢ೂୖ૾",
+    "line": 3150
+  },
+  {
+    "booth": "02-C02",
+    "name": "BIPA (Busan IT Industry Promotion Agency) ࣻ܎",
+    "line": 3152
+  },
+  {
+    "booth": "10-C03",
+    "name": "PCCS",
+    "line": 3165
+  },
+  {
+    "booth": "09-W17",
+    "name": "bHaptics",
+    "line": 3168
+  },
+  {
+    "booth": "06-N02",
+    "name": "Beep Japan",
+    "line": 3169
+  },
+  {
+    "booth": "06-C04",
+    "name": "pixyda",
+    "line": 3172
+  },
+  {
+    "booth": "03-N06",
+    "name": "BeXide(̼̞̲̍ )",
+    "line": 3174
+  },
+  {
+    "booth": "08-N04",
+    "name": "PixAI",
+    "line": 3176
+  },
+  {
+    "booth": "09-E10",
+    "name": "BitSummit",
+    "line": 3178
+  },
+  {
+    "booth": "06-C04",
+    "name": "HiBiGA",
+    "line": 3180
+  },
+  {
+    "booth": "10-W36",
+    "name": "FERTILERAINS",
+    "line": 3186
+  },
+  {
+    "booth": "09-E17",
+    "name": "213ㄈF",
+    "line": 3187
+  },
+  {
+    "booth": "09-C44",
+    "name": "Fat Goblins",
+    "line": 3191
+  },
+  {
+    "booth": "09-W100",
+    "name": "Fangamer",
+    "line": 3192
+  },
+  {
+    "booth": "10-E13",
+    "name": "V",
+    "line": 3194
+  },
+  {
+    "booth": "09-C64",
+    "name": "Phoenixx",
+    "line": 3196
+  },
+  {
+    "booth": "11-E14",
+    "name": "Huion",
+    "line": 3198
+  },
+  {
+    "booth": "09-W55",
+    "name": "ForCreators",
+    "line": 3201
+  },
+  {
+    "booth": "10-E26",
+    "name": "Fosi Audio Japan",
+    "line": 3205
+  },
+  {
+    "booth": "11-W21",
+    "name": "FUTAROKU/Riot Store Japan",
+    "line": 3209
+  },
+  {
+    "booth": "07-C06",
+    "name": "PLAYISM",
+    "line": 3212
+  },
+  {
+    "booth": "08-C01",
+    "name": "PLAION REPLAI (NEOGEO AES+)",
+    "line": 3215
+  },
+  {
+    "booth": "09-E06",
+    "name": "FlyteCatEmotion",
+    "line": 3217
+  },
+  {
+    "booth": "09-C21",
+    "name": "Blimey VR",
+    "line": 3218
+  },
+  {
+    "booth": "09-C27",
+    "name": "Project Solaris & MEAT-GRINDER &",
+    "line": 3222
+  },
+  {
+    "booth": "08-C13",
+    "name": "Project Moon",
+    "line": 3224
+  },
+  {
+    "booth": "09-C59",
+    "name": "Brazil Games",
+    "line": 3226
+  },
+  {
+    "booth": "09-W75",
+    "name": "BlasTrain",
+    "line": 3258
+  },
+  {
+    "booth": "10-E29",
+    "name": "Brook Gaming",
+    "line": 3262
+  },
+  {
+    "booth": "09-E35",
+    "name": "Black Tower Studios",
+    "line": 3263
+  },
+  {
+    "booth": "01-N28",
+    "name": "ڮిޥༀ",
+    "line": 3285
+  },
+  {
+    "booth": "10-E07",
+    "name": "Paidy",
+    "line": 3287
+  },
+  {
+    "booth": "10-W38",
+    "name": "Paymentwall",
+    "line": 3289
+  },
+  {
+    "booth": "09-C34",
+    "name": "HellHeart Breaker",
+    "line": 3291
+  },
+  {
+    "booth": "11-E09",
+    "name": "Penci Studio",
+    "line": 3293
+  },
+  {
+    "booth": "09-W78",
+    "name": "POLE TO WIN VIET NAM",
+    "line": 3295
+  },
+  {
+    "booth": "09-E49",
+    "name": "Poland Pavilion",
+    "line": 3296
+  },
+  {
+    "booth": "08-N21",
+    "name": "POCKET RD",
+    "line": 3304
+  },
+  {
+    "booth": "09-W21",
+    "name": "PocketReal",
+    "line": 3308
+  },
+  {
+    "booth": "09-E65",
+    "name": "ປ",
+    "line": 3313
+  },
+  {
+    "booth": "07-N01",
+    "name": "HORI",
+    "line": 3314
+  },
+  {
+    "booth": "09-C38",
+    "name": "Whitethorn Games",
+    "line": 3316
+  },
+  {
+    "booth": "08-N18",
+    "name": "MSI",
+    "line": 3318
+  },
+  {
+    "booth": "03-C05",
+    "name": "Malaysia Pavilion",
+    "line": 3324
+  },
+  {
+    "booth": "09-W37",
+    "name": "Mie Translation Services",
+    "line": 3333
+  },
+  {
+    "booth": "09-C07",
+    "name": "Midnight Crepe Studios",
+    "line": 3338
+  },
+  {
+    "booth": "09-W08",
+    "name": "MIDBASE",
+    "line": 3339
+  },
+  {
+    "booth": "07-N02",
+    "name": "Minimum Studio",
+    "line": 3341
+  },
+  {
+    "booth": "02-S07",
+    "name": "Meowster Innovations",
+    "line": 3342
+  },
+  {
+    "booth": "03-N03",
+    "name": "MUTAN",
+    "line": 3344
+  },
+  {
+    "booth": "09-W10",
+    "name": "˴ʿˠmono˷",
+    "line": 3349
+  },
+  {
+    "booth": "10-E06",
+    "name": "MediBang TraDe",
+    "line": 3355
+  },
+  {
+    "booth": "10-E18",
+    "name": "moimate",
+    "line": 3357
+  },
+  {
+    "booth": "02-C01",
+    "name": "Moscow Game Hub",
+    "line": 3361
+  },
+  {
+    "booth": "11-E26",
+    "name": "Moldova Country Booth",
+    "line": 3376
+  },
+  {
+    "booth": "09-C42",
+    "name": "YAO!GAMES",
+    "line": 3381
+  },
+  {
+    "booth": "09-C10",
+    "name": "˷˩ʾ˼ං",
+    "line": 3384
+  },
+  {
+    "booth": "08-N01",
+    "name": "ࣻচܘࡕࢩॹ",
+    "line": 3385
+  },
+  {
+    "booth": "09-E75",
+    "name": "փ",
+    "line": 3386
+  },
+  {
+    "booth": "09-W18",
+    "name": "Udexreal Technology",
+    "line": 3388
+  },
+  {
+    "booth": "09-C72",
+    "name": "ଚ٤চ؛",
+    "line": 3413
+  },
+  {
+    "booth": "08-N15",
+    "name": "޸ޭྂݚ",
+    "line": 3414
+  },
+  {
+    "booth": "08-C17",
+    "name": "Rising Tide",
+    "line": 3416
+  },
+  {
+    "booth": "01-C12",
+    "name": "Lighthouse Studio",
+    "line": 3418
+  },
+  {
+    "booth": "11-W15",
+    "name": "ڰഩ̙͔ʏ̀",
+    "line": 3422
+  },
+  {
+    "booth": "03-C06",
+    "name": "RAZBAM JAPAN",
+    "line": 3423
+  },
+  {
+    "booth": "10-C10",
+    "name": "Rabbit0",
+    "line": 3426
+  },
+  {
+    "booth": "02-C16",
+    "name": "Lan-bridge Game",
+    "line": 3429
+  },
+  {
+    "booth": "10-E02",
+    "name": "REALVE",
+    "line": 3430
+  },
+  {
+    "booth": "09-E72",
+    "name": "LIKEXUE TOKYOȦ",
+    "line": 3431
+  },
+  {
+    "booth": "08-N05",
+    "name": "LEADJOY",
+    "line": 3433
+  },
+  {
+    "booth": "08-N17",
+    "name": "LEAFshade",
+    "line": 3434
+  },
+  {
+    "booth": "05-C09",
+    "name": "LIONA",
+    "line": 3436
+  },
+  {
+    "booth": "01-N21",
+    "name": "ၩজ৯",
+    "line": 3438
+  },
+  {
+    "booth": "09-C11",
+    "name": "RE:HALU Project",
+    "line": 3440
+  },
+  {
+    "booth": "10-W16",
+    "name": "Riparia",
+    "line": 3442
+  },
+  {
+    "booth": "09-E20",
+    "name": "Lucas Games",
+    "line": 3444
+  },
+  {
+    "booth": "09-E62",
+    "name": "room6",
+    "line": 3450
+  },
+  {
+    "booth": "09-E90",
+    "name": "Lugn Games",
+    "line": 3453
+  },
+  {
+    "booth": "09-E45",
+    "name": "Lucid Rain Studios",
+    "line": 3454
+  },
+  {
+    "booth": "09-C06",
+    "name": "Lake On Fire",
+    "line": 3456
+  },
+  {
+    "booth": "09-C15",
+    "name": "Lakeview Games",
+    "line": 3457
+  },
+  {
+    "booth": "07-N03",
+    "name": "Red Dunes Games",
+    "line": 3461
+  },
+  {
+    "booth": "09-E23",
+    "name": "RED BRICK HOUSE",
+    "line": 3462
+  },
+  {
+    "booth": "10-W27",
+    "name": "Red Hog Studio",
+    "line": 3464
+  },
+  {
+    "booth": "03-C01",
+    "name": "lowiro",
+    "line": 3469
+  },
+  {
+    "booth": "02-C18",
+    "name": "Raw Fury",
+    "line": 3471
+  },
+  {
+    "booth": "09-C13",
+    "name": "6417",
+    "line": 3472
+  },
+  {
+    "booth": "09-E32",
+    "name": "Ⴧಅၢ̰͖̬̺͂ʏ̣ʈ̘̲͒̏",
+    "line": 3475
+  },
+  {
+    "booth": "09-C30",
+    "name": "Rockinforged",
+    "line": 3476
+  },
+  {
+    "booth": "09-E74",
+    "name": "World Map",
+    "line": 3478
+  },
+  {
+    "booth": "08-N03",
+    "name": "WAWE",
+    "line": 3480
+  },
+  {
+    "booth": "11-E19",
+    "name": "ONEXPLAYER",
+    "line": 3484
+  }
+]

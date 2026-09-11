@@ -1,0 +1,4928 @@
+[
+  {
+    "name": "アイ・オー・データ機器",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "アイティーシー",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "IRONMACE",
+    "category_raw": "⼀般展⽰",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "Axisray Lab",
+    "category_raw": "⼀般展⽰",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Astrae Oratio",
+    "category_raw": "⼀般展⽰",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "アソビズム",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "アニプレックス",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "アプリペイ",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Alaya Studio",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "アローン",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ECI GAMES",
+    "category_raw": "⼀般展⽰",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "イザナギゲームズ",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Italy Pavilion",
+    "category_raw": "⼀般展⽰",
+    "country": "イタリア",
+    "online": false
+  },
+  {
+    "name": "インティ･クリエイツ",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "viviON",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Winking Studios",
+    "category_raw": "⼀般展⽰",
+    "country": "シンガポール",
+    "online": false
+  },
+  {
+    "name": "Ukiyo Studios",
+    "category_raw": "⼀般展⽰",
+    "country": "オーストラリア",
+    "online": false
+  },
+  {
+    "name": "ULTRANOVA Entertainment",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ASUS JAPAN",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "エディア",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "EnigmatrixGames",
+    "category_raw": "⼀般展⽰",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "NHN JAPAN",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "NHK × ゲーム",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "MSI",
+    "category_raw": "⼀般展⽰",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "AREA35",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "L&K",
+    "category_raw": "⼀般展⽰",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "エンターグラム",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "AORUS",
+    "category_raw": "⼀般展⽰",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "オプテージ",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "架け橋ゲームズ",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "カプコン",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "GALLERIA（サードウェーブ）",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "川上産業",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ガンホー・オンライン・エンターテイメント",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "キオクシア",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "キヤノン",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "King's Raid",
+    "category_raw": "⼀般展⽰",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "Google Play",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Graph",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "群⾺県",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "K-SILVER",
+    "category_raw": "⼀般展⽰",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Game Carrot",
+    "category_raw": "⼀般展⽰",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Gamesir",
+    "category_raw": "⼀般展⽰",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Games From Portugal",
+    "category_raw": "⼀般展⽰",
+    "country": "ポルトガル",
+    "online": false
+  },
+  {
+    "name": "Game Source Entertainment",
+    "category_raw": "⼀般展⽰",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "ゲームフリーク",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Keimyung University Immersive Media COSS",
+    "category_raw": "⼀般展⽰",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "ケムコ",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Genki",
+    "category_raw": "⼀般展⽰",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "コーエーテクモゲームス",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "国⽴環境研究所",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "コナミデジタルエンタテインメント",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "KOREA PAVILION",
+    "category_raw": "⼀般展⽰",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "Corsair Fanatec Japan",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "サイバーコネクトツー",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Silent Bark Games",
+    "category_raw": "⼀般展⽰",
+    "country": "タイ",
+    "online": false
+  },
+  {
+    "name": "サクセス",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Sapporo Game Camp",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Samurai Cats: Meow Order",
+    "category_raw": "⼀般展⽰",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "サンディスク",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "サンリオ",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "シー・エフ・デー販売",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Sheer Tianyi Technology",
+    "category_raw": "⼀般展⽰",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "ジェットスタジオ",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ジェムドロップ",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Shenzhen KTC Technology",
+    "category_raw": "⼀般展⽰",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "シティコネクション",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "集英社ゲームズ",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "G TUNE・NEXTGEAR(マウスコンピューター)",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "松⽵",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "シルバースタージャパン",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "瑞起",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Sichuan Digital Publishing & Media",
+    "category_raw": "⼀般展⽰",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Sichuan Provincial Game Innovation and Development Center︔Sichuan\nDigital World Culture and Technology",
+    "category_raw": "⼀般展⽰",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "スクウェア・エニックス",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "スタジオEMBERS",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "スマイルゲート",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ZETA DIVISION",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "セガ",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ソニー・インタラクティブエンタテインメント",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ソフマップ",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Taipei Game Show",
+    "category_raw": "⼀般展⽰",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "達成電器",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "タツマキゲームズ",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "DUNLOP",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Jeonbuk Global Game Center",
+    "category_raw": "⼀般展⽰",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "DITP (Thailand Pavilion)",
+    "category_raw": "⼀般展⽰",
+    "country": "タイ",
+    "online": false
+  },
+  {
+    "name": "DIP (Daegu Digital Innovation Promotion Agency)",
+    "category_raw": "⼀般展⽰",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "DMM GAMES（EXNOA）",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ディースリー・パブリッシャー",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "TECOPARK",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Defios",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "テヨンジャパン",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "トイジアム",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "東京メトロポリタンテレビジョン",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "東プレ",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "DOBE",
+    "category_raw": "⼀般展⽰",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Top Hat Studios",
+    "category_raw": "⼀般展⽰",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "ドリコム",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Tripo AI",
+    "category_raw": "⼀般展⽰",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "DRIMAGE JAPAN",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": true
+  },
+  {
+    "name": "中⻄製作所",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "NeoBards Entertainment",
+    "category_raw": "⼀般展⽰",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "Nextorage",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ネクソン",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ネコノメ",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "netmarble",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ノイジークローク",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Norwegian Games",
+    "category_raw": "⼀般展⽰",
+    "country": "ノルウェー",
+    "online": false
+  },
+  {
+    "name": "HYPER REAL",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Pakistan Pavilion (Provisional)",
+    "category_raw": "⼀般展⽰",
+    "country": "パキスタン",
+    "online": false
+  },
+  {
+    "name": "パナソニック",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ハピネット",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ハムスター",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": true
+  },
+  {
+    "name": "Pulsar Gaming Gears",
+    "category_raw": "⼀般展⽰",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "バンダイナムコエンターテインメント",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "BIPA (Busan IT Industry Promotion Agency)",
+    "category_raw": "⼀般展⽰",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "Beep Japan / Serenity Forge",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "BeXide(ビサイド)",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ヒストリア",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ピンクル",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "VRChat",
+    "category_raw": "⼀般展⽰",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "フェイズ",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "4Gamer.net",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ブシロード",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "PLAION REPLAI",
+    "category_raw": "⼀般展⽰",
+    "country": "英国",
+    "online": false
+  },
+  {
+    "name": "プレイケア ⽇本アクティビティ協会",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "PLAYISM",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Project Moon",
+    "category_raw": "⼀般展⽰",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "ベンキュージャパン",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ポケットペア",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "HORI",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Malaysia Pavilion",
+    "category_raw": "⼀般展⽰",
+    "country": "マレーシア",
+    "online": false
+  },
+  {
+    "name": "Mango Party",
+    "category_raw": "⼀般展⽰",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "美津濃",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Minimum Studio",
+    "category_raw": "⼀般展⽰",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "MUTAN",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "モス",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Moscow Game Hub",
+    "category_raw": "⼀般展⽰",
+    "country": "ロシア",
+    "online": false
+  },
+  {
+    "name": "⼭⼝県岩国市",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "吉本興業",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Rising Tide",
+    "category_raw": "⼀般展⽰",
+    "country": "タイ",
+    "online": false
+  },
+  {
+    "name": "Lighthouse Studio",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "LINEヤフー",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "RAZBAM JAPAN",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Lan-bridge Game",
+    "category_raw": "⼀般展⽰",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "LEADJOY",
+    "category_raw": "⼀般展⽰",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "LEAFshade",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "LIONA",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "リボーンスミス",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Red Dunes Games",
+    "category_raw": "⼀般展⽰",
+    "country": "アラブ⾸⻑国連邦",
+    "online": false
+  },
+  {
+    "name": "レノボ･ジャパン",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "レベルファイブ",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "lowiro",
+    "category_raw": "⼀般展⽰",
+    "country": "英国",
+    "online": false
+  },
+  {
+    "name": "YYSTV Media & Video Game Museum",
+    "category_raw": "⼀般展⽰",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "WAWE",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ワンオアエイト",
+    "category_raw": "⼀般展⽰",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Around X Next Challenge",
+    "category_raw": "スマートフォンゲームコーナー",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "Stationery Heroes",
+    "category_raw": "スマートフォンゲームコーナー",
+    "country": "⾹港",
+    "online": false
+  },
+  {
+    "name": "Bountykinds Solutions",
+    "category_raw": "スマートフォンゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "番町精神医学基礎研究所",
+    "category_raw": "スマートフォンゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Azeron",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "ラトビア",
+    "online": false
+  },
+  {
+    "name": "アバーメディア・テクノロジーズ",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "アユート",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "AndGAMER ( Void Gaming&AIM1 )",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "EA SEMI（SHANGHAI）TECH",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "いしん",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Insta360",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Warsong Technology",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "HKC",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "eXtremeRate",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "XVX Keyboard",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "XPPen",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "EPOMAKER",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "AULA",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "オスカー",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "KARNOX",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "⿅島建設",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Keychron",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "GUIZHOU FUDING RUBBER AND PLASTIC",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "KIBU",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "CANVY",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Guangdong Ouxide",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "GRAPHT",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "SATN",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "三和電⼦",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "XEO LAB",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Shanghai Flydigi Electronics Tech",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "SHENZHEN TOMTOC TECHNOLOGY",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "TALONGAMES",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "TTC",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "東京⾳響",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Dongguan Gaoxd Precision Industry",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Dongguan 3E Electronics",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "NERDER",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ビーエリア",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Huion",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Fosi Audio Japan",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "FOSTEX(フォスター電機)",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ふもっふのおみせ",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Brook Gaming",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "未来クリエイト",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "moimate",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "MOZA Racing",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "YUNZII",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Rabbit0 / ATK Gear",
+    "category_raw": "ゲーミングハードウェアコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "アーキサイト",
+    "category_raw": "ゲーミングライフスタイルコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "AIMWIZ",
+    "category_raw": "ゲーミングライフスタイルコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "カルモア",
+    "category_raw": "ゲーミングライフスタイルコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "岐⾩プラスチック⼯業",
+    "category_raw": "ゲーミングライフスタイルコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Secretlab",
+    "category_raw": "ゲーミングライフスタイルコーナー",
+    "country": "シンガポール",
+    "online": false
+  },
+  {
+    "name": "Pixio（Hamee）",
+    "category_raw": "ゲーミングライフスタイルコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ミッドベース",
+    "category_raw": "ゲーミングライフスタイルコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "めがねmonoや",
+    "category_raw": "ゲーミングライフスタイルコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Gatebox",
+    "category_raw": "AR/VRコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Soulart",
+    "category_raw": "AR/VRコーナー",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "⽇本電⼦専⾨学校 ProjectVR",
+    "category_raw": "AR/VRコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "bHaptics",
+    "category_raw": "AR/VRコーナー",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "フォーラムエイト",
+    "category_raw": "AR/VRコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "PocketReal",
+    "category_raw": "AR/VRコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Udexreal Technology",
+    "category_raw": "AR/VRコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "ROOX",
+    "category_raw": "AR/VRコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "WALLHACK",
+    "category_raw": "eスポーツコーナー",
+    "country": "デンマーク",
+    "online": false
+  },
+  {
+    "name": "CLUTCHY",
+    "category_raw": "eスポーツコーナー",
+    "country": "シンガポール",
+    "online": false
+  },
+  {
+    "name": "スターリング",
+    "category_raw": "eスポーツコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "SPYGEA",
+    "category_raw": "eスポーツコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ZeroBankX Japan",
+    "category_raw": "eスポーツコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "PCCS",
+    "category_raw": "eスポーツコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "アーツカレッジヨコハマ",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "愛知⼯科⼤学",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "愛知⼯業⼤学",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ASOポップカルチャー専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "⽳吹ビジネス専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "アルスコンピュータ専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ECCコンピュータ専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "岩崎学園",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "WiZ国際情報⼯科⾃動⾞⼤学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "SCAD (Savannah College of Art and Design)",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "愛媛県⽴松⼭南⾼等学校砥部分校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "OECU eSports（⼤阪電気通信⼤学）",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "⼤阪⼯業⼤学 情報科学部",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "⼤阪総合デザイン専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "⼤阪電気通信⼤学",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "太⽥情報商科専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "岡⼭情報ビジネス学院",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "神奈川⼯科⼤学",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "河原電⼦ビジネス専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "九州産業⼤学",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "九州情報⼤学",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": true
+  },
+  {
+    "name": "近畿コンピュータ電⼦専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "熊本県⽴天草⼯業⾼等学校/天草市",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "KCS × JOHO",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ゲームプログラミングラボ",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "国際情報ビジネス専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "国際電⼦ビジネス専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "さいたまIT・WEB専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Gevent",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "品川学藝⾼等学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "湘南⼯科⼤学",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "尚美学園⼤学",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "専⾨学校⼤阪デザイナー・アカデミー",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "専⾨学校国際理⼯カレッジ",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "専⾨学校東京クールジャパン・アカデミー",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "専⾨学校北海道サイバークリエイターズ⼤学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "専⾨学校未来ビジネスカレッジ",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "総合学園ヒューマンアカデミー",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "創志学園 クラークNEXT⾼等学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ソニー学園 湘北短期⼤学",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "中央情報⼤学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "東京実業⾼等学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "東京情報⼤学",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "東京都市⼤学",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "東放学園映画アニメCG専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "東北電⼦専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "東洋美術学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "富⼭情報ビジネス専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "トライデントコンピュータ専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "名古屋⼯学院専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "名古屋情報メディア専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "新潟コンピュータ専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "21世紀アカデメイア（名古屋デザイナー・アカデミー／福岡デザイナー・アカデミー）",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": true
+  },
+  {
+    "name": "⽇本IBM",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "⽇本⼯学院・東京⼯科⼤学",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "⽇本電⼦専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "沼津情報・ビジネス専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "バンタンゲームアカデミー",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "阪南⼤学",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "東⽇本デザイン＆コンピュータ専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "⽂教⼤学",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "北海道情報専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "北海道情報⼤学",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "⽔⼾デジタル専⾨カレッジ",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Lunch Time エフェクトラボ",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "⽴志舎",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ルネサンス⾼校グループ",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "麗澤⼤学 陳研究室",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "早稲⽥⽂理専⾨学校",
+    "category_raw": "ゲームアカデミーコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "アラヤ",
+    "category_raw": "オールアクセシビリティコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "⽇本電⼦専⾨学校 Project Allcea",
+    "category_raw": "オールアクセシビリティコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "IGDA⽇本",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Idea Bombers",
+    "category_raw": "インディーゲームコーナー",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "アイロリ・エンタテインメント",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "アスク",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Astro Production",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Anarch Entertainment",
+    "category_raw": "インディーゲームコーナー",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "アプライズ",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "アルティネット",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Unmasked Truths: Shattered Dreams",
+    "category_raw": "インディーゲームコーナー",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "ESDigital Games",
+    "category_raw": "インディーゲームコーナー",
+    "country": "キプロス",
+    "online": false
+  },
+  {
+    "name": "iGi indie Game incubator ・創⾵",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Ichigoichie",
+    "category_raw": "インディーゲームコーナー",
+    "country": "スウェーデン",
+    "online": false
+  },
+  {
+    "name": "Immersive Media COSS",
+    "category_raw": "インディーゲームコーナー",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "INDIE LIVE EXPO",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "India Pavilion",
+    "category_raw": "インディーゲームコーナー",
+    "country": "インド",
+    "online": false
+  },
+  {
+    "name": "Imperfect Games",
+    "category_raw": "インディーゲームコーナー",
+    "country": "中国",
+    "online": true
+  },
+  {
+    "name": "Infini Fun",
+    "category_raw": "インディーゲームコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Winning Entertainment Group",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Ved: Recure",
+    "category_raw": "インディーゲームコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Venn Studios",
+    "category_raw": "インディーゲームコーナー",
+    "country": "ブラジル",
+    "online": false
+  },
+  {
+    "name": "Walker Industries",
+    "category_raw": "インディーゲームコーナー",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "XD",
+    "category_raw": "インディーゲームコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Edentopia",
+    "category_raw": "インディーゲームコーナー",
+    "country": "タイ",
+    "online": false
+  },
+  {
+    "name": "Edcorp",
+    "category_raw": "インディーゲームコーナー",
+    "country": "英国",
+    "online": false
+  },
+  {
+    "name": "NGJ",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "April 8th",
+    "category_raw": "インディーゲームコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "MKstudio",
+    "category_raw": "インディーゲームコーナー",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "エム・ビー・エーインターナショナル",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "MYサービス",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Erabit Studios",
+    "category_raw": "インディーゲームコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Elysium",
+    "category_raw": "インディーゲームコーナー",
+    "country": "トルコ",
+    "online": false
+  },
+  {
+    "name": "えんぴつゲームズ",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "OTIPLE",
+    "category_raw": "インディーゲームコーナー",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "Aurora Studio",
+    "category_raw": "インディーゲームコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "OgreeGames － Lucid Tarot",
+    "category_raw": "インディーゲームコーナー",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "Optillusion Games",
+    "category_raw": "インディーゲームコーナー",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "offbrand games",
+    "category_raw": "インディーゲームコーナー",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "カエルパンダ",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "カプリノ",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Gamirror Games",
+    "category_raw": "インディーゲームコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "KALPA: Cosmic Symphony",
+    "category_raw": "インディーゲームコーナー",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "Kunpan Games",
+    "category_raw": "インディーゲームコーナー",
+    "country": "中国",
+    "online": true
+  },
+  {
+    "name": "企創天外",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Kipwak Studio",
+    "category_raw": "インディーゲームコーナー",
+    "country": "スイス",
+    "online": false
+  },
+  {
+    "name": "GYEONGNAM GLOBAL GAME CENTER",
+    "category_raw": "インディーゲームコーナー",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "KUU",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "KOOAPPS PHILIPPINES",
+    "category_raw": "インディーゲームコーナー",
+    "country": "フィリピン",
+    "online": false
+  },
+  {
+    "name": "グラビティゲームアライズ",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "クラフト＆マイスター",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Creative Wales",
+    "category_raw": "インディーゲームコーナー",
+    "country": "英国",
+    "online": false
+  },
+  {
+    "name": "Crico",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "GRIM RONIN",
+    "category_raw": "インディーゲームコーナー",
+    "country": "セルビア",
+    "online": false
+  },
+  {
+    "name": "CleverPlays Studio",
+    "category_raw": "インディーゲームコーナー",
+    "country": "カナダ",
+    "online": true
+  },
+  {
+    "name": "Kurosawa Studios",
+    "category_raw": "インディーゲームコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "KIC Games",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Gamersky Games",
+    "category_raw": "インディーゲームコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Games From Jakarta",
+    "category_raw": "インディーゲームコーナー",
+    "country": "インドネシア",
+    "online": false
+  },
+  {
+    "name": "Games from Spain",
+    "category_raw": "インディーゲームコーナー",
+    "country": "スペイン",
+    "online": false
+  },
+  {
+    "name": "GameTeahouse&WiseGames",
+    "category_raw": "インディーゲームコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "講談社",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Cometa Games",
+    "category_raw": "インディーゲームコーナー",
+    "country": "メキシコ",
+    "online": false
+  },
+  {
+    "name": "コヨーテランナー",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Gonggamore content",
+    "category_raw": "インディーゲームコーナー",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "Thermite Games",
+    "category_raw": "インディーゲームコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Psi Games Online",
+    "category_raw": "インディーゲームコーナー",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "ザクザク",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Sanobusiness",
+    "category_raw": "インディーゲームコーナー",
+    "country": "イタリア",
+    "online": false
+  },
+  {
+    "name": "Subway: 0% Escape (ボルテージ)",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ジー・モード",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "JOSHIBI_GAMES powered by AISIS",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "シリアルゲームズ",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Sweden Game Arena",
+    "category_raw": "インディーゲームコーナー",
+    "country": "スウェーデン",
+    "online": false
+  },
+  {
+    "name": "スーパーシャーク",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "SKOOTA GAMES",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "SclObo",
+    "category_raw": "インディーゲームコーナー",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "SUKEBAN GAMES",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Starpunk Studio",
+    "category_raw": "インディーゲームコーナー",
+    "country": "インド",
+    "online": false
+  },
+  {
+    "name": "ステアシステム",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "スプリングギルド",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Space Drilling Station",
+    "category_raw": "インディーゲームコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Second Win Games",
+    "category_raw": "インディーゲームコーナー",
+    "country": "シンガポール",
+    "online": false
+  },
+  {
+    "name": "仙台デザイン＆テクノロジー専⾨学校",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ソフトウェアコントロール",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Sola",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Taiwan Indie Showcase (powered by ADI)",
+    "category_raw": "インディーゲームコーナー",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "Taiwan Computer Graphics Manufacturing",
+    "category_raw": "インディーゲームコーナー",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "タスキブ",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Dungeon Settlers",
+    "category_raw": "インディーゲームコーナー",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "Jeonnam Information & Culture Industry Promotion Agency",
+    "category_raw": "インディーゲームコーナー",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "Chin-Chan",
+    "category_raw": "インディーゲームコーナー",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "DICO",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Tails of Fate",
+    "category_raw": "インディーゲームコーナー",
+    "country": "英国",
+    "online": false
+  },
+  {
+    "name": "テオリアコード",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "デジタルハリウッド⼤学",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "TECH.C. GAME PROJECT",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "TERLETSKI GAMES",
+    "category_raw": "インディーゲームコーナー",
+    "country": "アルメニア",
+    "online": false
+  },
+  {
+    "name": "tenshabi",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "テンダゲームス",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "トイジアム",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "東映",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "東京⼯科⼤学",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "東京コミュニケーションアート専⾨学校",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "東京情報デザイン専⾨職⼤学",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Total Mayhem Games",
+    "category_raw": "インディーゲームコーナー",
+    "country": "オランダ",
+    "online": false
+  },
+  {
+    "name": "トムクリエイト",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "トラムワークス",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ドリームジャック",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ドリコム",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Nao Games",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Nalua Studio",
+    "category_raw": "インディーゲームコーナー",
+    "country": "アンドラ",
+    "online": false
+  },
+  {
+    "name": "ニトロプラス",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "NEOGULLAB",
+    "category_raw": "インディーゲームコーナー",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "Neon Noroshi",
+    "category_raw": "インディーゲームコーナー",
+    "country": "スウェーデン",
+    "online": false
+  },
+  {
+    "name": "NexTone",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ネストピ",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "HIGHFIVE DOG",
+    "category_raw": "インディーゲームコーナー",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "バカー",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Bustr Media Enterprise",
+    "category_raw": "インディーゲームコーナー",
+    "country": "トリニダード・トバゴ",
+    "online": false
+  },
+  {
+    "name": "BASSAI-DAI",
+    "category_raw": "インディーゲームコーナー",
+    "country": "キプロス",
+    "online": false
+  },
+  {
+    "name": "Happy Volcano",
+    "category_raw": "インディーゲームコーナー",
+    "country": "ベルギー",
+    "online": true
+  },
+  {
+    "name": "ハピネット",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ハリソンワールド",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "パルコ",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ピース",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "BitSummit",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Pip Puzzle",
+    "category_raw": "インディーゲームコーナー",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "213℉",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Fat Goblins",
+    "category_raw": "インディーゲームコーナー",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "Fun2 Studio",
+    "category_raw": "インディーゲームコーナー",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "Phoenixx",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "FORCES",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "FlyteCatEmotion",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Flawless Gaming",
+    "category_raw": "インディーゲームコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Brazil Games",
+    "category_raw": "インディーゲームコーナー",
+    "country": "ブラジル",
+    "online": false
+  },
+  {
+    "name": "ブラストエッジゲームズ",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Black Tower Studios",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Black Beard Design Studio",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "プラネッタ",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "PLITHUS",
+    "category_raw": "インディーゲームコーナー",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "フリュー",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Fruitbat Factory",
+    "category_raw": "インディーゲームコーナー",
+    "country": "フィンランド",
+    "online": false
+  },
+  {
+    "name": "PLAYISM",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Project Solaris & MEAT-GRINDER & Overbit & Every Wednesday",
+    "category_raw": "インディーゲームコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "フロンティアワークス",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "HellHeart Breaker",
+    "category_raw": "インディーゲームコーナー",
+    "country": "シンガポール",
+    "online": false
+  },
+  {
+    "name": "perelesoq",
+    "category_raw": "インディーゲームコーナー",
+    "country": "カザフスタン",
+    "online": true
+  },
+  {
+    "name": "Poland Pavilion",
+    "category_raw": "インディーゲームコーナー",
+    "country": "ポーランド",
+    "online": false
+  },
+  {
+    "name": "Whitethorn Games",
+    "category_raw": "インディーゲームコーナー",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "Microlandia",
+    "category_raw": "インディーゲームコーナー",
+    "country": "ドイツ",
+    "online": false
+  },
+  {
+    "name": "マトリックス",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "メタスラ",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Monster Bath Games",
+    "category_raw": "インディーゲームコーナー",
+    "country": "カナダ",
+    "online": false
+  },
+  {
+    "name": "YAO!GAMES",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ヤネウラゲームス",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "やぶから堂",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "闇",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ユーフォニック",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ラディアスリー",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "LIKEXUE TOKYO︓Open World Japanese Learning",
+    "category_raw": "インディーゲームコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "RE:HALU Project",
+    "category_raw": "インディーゲームコーナー",
+    "country": "インドネシア",
+    "online": false
+  },
+  {
+    "name": "Root on",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ルードガイスト",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "room6",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Lugn Games",
+    "category_raw": "インディーゲームコーナー",
+    "country": "ノルウェー",
+    "online": false
+  },
+  {
+    "name": "Lake On Fire",
+    "category_raw": "インディーゲームコーナー",
+    "country": "フランス",
+    "online": false
+  },
+  {
+    "name": "Lakeview Games",
+    "category_raw": "インディーゲームコーナー",
+    "country": "スイス",
+    "online": false
+  },
+  {
+    "name": "rokaplay",
+    "category_raw": "インディーゲームコーナー",
+    "country": "ドイツ",
+    "online": true
+  },
+  {
+    "name": "6417",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ロココ",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Rockinforged",
+    "category_raw": "インディーゲームコーナー",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "World of Anterra",
+    "category_raw": "インディーゲームコーナー",
+    "country": "カナダ",
+    "online": false
+  },
+  {
+    "name": "World Map",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ワンダーランドカザキリ",
+    "category_raw": "インディーゲームコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "i want to be a tree (but life has other ideas)",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "アカリーニョ・ゲームズ",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "スペイン",
+    "online": false
+  },
+  {
+    "name": "ATTABOY INTERACTIVE",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "フランス",
+    "online": false
+  },
+  {
+    "name": "Arash Negahban",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "オマーン",
+    "online": false
+  },
+  {
+    "name": "アレタ",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "⽯崎航琉",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "127号室",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "IN SILICO",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "スペイン",
+    "online": false
+  },
+  {
+    "name": "INTERSCAPE",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "Invisible Rabbit",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "We Are So Cooked",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "インド",
+    "online": false
+  },
+  {
+    "name": "ウィール・オブ・ゲームズ",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "スペイン",
+    "online": false
+  },
+  {
+    "name": "EthrA",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "スペイン",
+    "online": false
+  },
+  {
+    "name": "Awesomes",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Okawari!",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Gearbyte Games",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "シンガポール",
+    "online": false
+  },
+  {
+    "name": "健康機構",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Go Slimey Go!",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "アルゼンチン",
+    "online": false
+  },
+  {
+    "name": "国鉄上野駅1979",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Gentle Giants",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "紙の家",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "スタジオウィンク",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Studio ZeF",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "正直バナナ",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "Stretched Studio",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "フランス",
+    "online": false
+  },
+  {
+    "name": "SporkTank",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "オーストラリア",
+    "online": false
+  },
+  {
+    "name": "Smiley Dog Studio",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "スマッシュン・グラブ",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "英国",
+    "online": false
+  },
+  {
+    "name": "slapTrax",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "するめ⼯房",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Safe Flight Games & Joey Schutz",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "タイタン防衛線2",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "カナダ",
+    "online": false
+  },
+  {
+    "name": "W4S",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Double Jack",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "フランス",
+    "online": false
+  },
+  {
+    "name": "チームゲハナシ",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "チーム「Reverberate」",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ネズミを追いかけるゲーム",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "カナダ",
+    "online": false
+  },
+  {
+    "name": "Cham-gaming",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ツラヌキマル",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "妹に運転を教える",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "デッドリー・クロウ・ゲームズ",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "チリ",
+    "online": false
+  },
+  {
+    "name": "Devotion Interactive",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "トルコ",
+    "online": false
+  },
+  {
+    "name": "Tempo Lab Games",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "オーストラリア",
+    "online": false
+  },
+  {
+    "name": "Twenty Ninety Creative",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "サウジアラビア",
+    "online": false
+  },
+  {
+    "name": "TOONLEAGUE",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "東京⼯芸⼤学",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "洞窟ペンギンクラブ",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ドーナッても冷静に",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "英国",
+    "online": false
+  },
+  {
+    "name": "トラックフル",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "ポーランド",
+    "online": false
+  },
+  {
+    "name": "ニエンタム － オプス・ゼロ －",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "BARKOUR",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "ポーランド",
+    "online": false
+  },
+  {
+    "name": "Puzzle Deck",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "カナダ",
+    "online": false
+  },
+  {
+    "name": "Pat-o-Logic Studio",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "スウェーデン",
+    "online": false
+  },
+  {
+    "name": "Bad Magpie バッドマグパイ",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "英国",
+    "online": false
+  },
+  {
+    "name": "バハゴニア",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "スペイン",
+    "online": false
+  },
+  {
+    "name": "Hubert",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "チェコ",
+    "online": false
+  },
+  {
+    "name": "Paradoxical",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "ブラジル",
+    "online": false
+  },
+  {
+    "name": "P.F.J.",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Become",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "チェコ",
+    "online": false
+  },
+  {
+    "name": "Hugecalf Studios",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "英国",
+    "online": false
+  },
+  {
+    "name": "HiroshiIdenoPresents",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Filmakademie Baden-Wuerttemberg",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "ドイツ",
+    "online": false
+  },
+  {
+    "name": "P.U.Q.U.",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Future Entertainment Company",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "ウクライナ",
+    "online": false
+  },
+  {
+    "name": "ぷらんくめーかー",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Flaming Fowl Studios",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "英国",
+    "online": false
+  },
+  {
+    "name": "PlayLab DiTella",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "アルゼンチン",
+    "online": false
+  },
+  {
+    "name": "細い⽷状の構造体",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "宮澤 卓宏",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "めぐたん",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "モスキーボードーン",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "MONO ENTERTAINMENT",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Yummy Games",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "フランス",
+    "online": false
+  },
+  {
+    "name": "リドロックス",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "RIFTSTORM",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "シンガポール",
+    "online": false
+  },
+  {
+    "name": "LudenArts - MASK IT -",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Looney Dog Productions",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "インド",
+    "online": false
+  },
+  {
+    "name": "Loopr Partners",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "Loadstar",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "スペイン",
+    "online": false
+  },
+  {
+    "name": "Watt Studio",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "ロシア",
+    "online": false
+  },
+  {
+    "name": "Wala Interactive",
+    "category_raw": "SELECTEDINDIE80",
+    "country": "インド",
+    "online": false
+  },
+  {
+    "name": "AI PikattoAnime",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "アヤメ",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "アルジャーノンプロダクト",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "いいじゃん",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "イエロー",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Insert Coin Japan",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "インフォレンズ",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "vaultroom",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "SSS",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "NHN JAPAN",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "エンスカイ",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "カプコン",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "GRAPHT",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "GAMES GLORIOUS",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ゲームセンターCX",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "コーエーテクモゲームス",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "コスパ",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "コナミデジタルエンタテインメント",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "サイバーコネクトツー",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "スクウェア・エニックス",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "STARFORGED",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "スパイダーウェブス",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ZETA DIVISION",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "セガ／アトラス",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "TOYPLA",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "TORCH TORCH",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "DRECOM SHOP",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "⽇経BP",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "⽻⽥プロジェクト",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Pulsar Gaming Gears",
+    "category_raw": "物販コーナー",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "BANDAI SPIRITS",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "バンダイナムコエンターテインメント",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Fangamer",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ふたろく",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Fnatic Gear(ASK)",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "+1F",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "BLACK BALLOON MARKET",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ポケットペア",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "メディアリンク",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "楽天グループ",
+    "category_raw": "物販コーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ICTパーク",
+    "category_raw": "ファミリーゲームパーク",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "カプコン",
+    "category_raw": "ファミリーゲームパーク",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "コナミデジタルエンタテインメント",
+    "category_raw": "ファミリーゲームパーク",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "サンリオ",
+    "category_raw": "ファミリーゲームパーク",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "スクウェア・エニックス",
+    "category_raw": "ファミリーゲームパーク",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "セガ",
+    "category_raw": "ファミリーゲームパーク",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "てれびげーむマガジン",
+    "category_raw": "ファミリーゲームパーク",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "⽇テレWands",
+    "category_raw": "ファミリーゲームパーク",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ハピネット",
+    "category_raw": "ファミリーゲームパーク",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Bufff",
+    "category_raw": "ファミリーゲームパーク",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "バンダイナムコエンターテインメント",
+    "category_raw": "ファミリーゲームパーク",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "プラネッタ",
+    "category_raw": "ファミリーゲームパーク",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "room6",
+    "category_raw": "ファミリーゲームパーク",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "AIQVE ONE",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "アイケイワイ",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "アオイ・インダストリーズ",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Akatsuki Taiwan",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "アクアスター",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "アジア航測",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "AssetHub",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "ADIA Studios",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "AttendMe",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "adjoe Playtime",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "ドイツ",
+    "online": false
+  },
+  {
+    "name": "アドバーチャ",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "AHIRU",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Apogee",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Alpha CRC",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Almedia",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "ドイツ",
+    "online": false
+  },
+  {
+    "name": "e.m.y.c design",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Yeehe",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "イワタ",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "インクレディビルドジャパン",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ウィットワン",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Wovn Technologies",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ウルトラエックス",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "A.O.M.",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "AZSTOKE",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Xsolla Japan",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "FMC",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ElEngine",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ErudAite",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "⼤橋⾦属⼯芸",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Original Force",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Online Station & gamescom asia Thailand Game Show",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "タイ",
+    "online": false
+  },
+  {
+    "name": "⿅児島県伊佐市",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "キーワーズ・インターナショナル",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "QiYou Game Booster",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "KusArt",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "熊本県",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "熊本市",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "クラフトマンソフトウェア",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "KDDIテクノロジー",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ゲームエイト",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "GAMEDEX",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "コンフィデンス・インターワークス",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Side International Japan",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "英国",
+    "online": false
+  },
+  {
+    "name": "サムスン⽇本研究所",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "サンバード",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "サン・フレア",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "CRI・ミドルウェア",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ジーアングル",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "C&R Creative Studios",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "C-Garden",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "G-STAR Organizing Committee",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "JOCDN",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Geolocation Technology",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "静岡市",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "シナリオテクノロジーミカガミ",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ジャイアンティ",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "シヤチハタ",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Shinwork Technology",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "スクウェア・エニックス イメージ・スタジオディビジョン",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ストレンジブレイン",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "SpriteStudio:CRIware",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "スリーエスエンタテインメント",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "7shot",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Sensor Tower",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Sentry",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "TAITRA",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "ダイナコムウェア",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ダイナミックマッププラットフォーム",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "タレントギア",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Checkout",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Diarkis",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "DICO",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ディッジ",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "デジアール",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "TenjoyJapan",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Tencent Japan",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Too",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "2itz Studio",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "タイ",
+    "online": false
+  },
+  {
+    "name": "⼗印",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Tokenz",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "新潟市",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "⽇経Gaming",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "⽇特建設",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "バレットグループ",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ビヨンド",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ファイン",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "V",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ForCreators",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "BlasTrain",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Brushup",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "プンクト",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ペイパル",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "POLE TO WIN VIET NAM",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "ベトナム",
+    "online": false
+  },
+  {
+    "name": "ポッピンゲームズジャパン",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ポリゴンマジック",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "マウンテンスタジオ",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Mie Translation Services",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "ミライセンス",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ミリアッシュ",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "MediBang Trade",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "memoQ",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "ハンガリー",
+    "online": false
+  },
+  {
+    "name": "モリサワ",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Yuno",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "横須賀市",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ライオンブリッジゲームズ",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ライト",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ラクジン",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ラパン",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "REALVE",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Leaf Studio",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "リコーPFUコンピューティング",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "レバテック",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Wordbee",
+    "category_raw": "ビジネスソリューションコーナー",
+    "country": "ルクセンブルク",
+    "online": true
+  },
+  {
+    "name": "アドビ",
+    "category_raw": "AIテクノロジーパビリオン（ビジネスソ",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Anchor Node",
+    "category_raw": "AIテクノロジーパビリオン（ビジネスソ",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "XR SUMMITS",
+    "category_raw": "AIテクノロジーパビリオン（ビジネスソ",
+    "country": "マレーシア",
+    "online": false
+  },
+  {
+    "name": "OSJ",
+    "category_raw": "AIテクノロジーパビリオン（ビジネスソ",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "クラウドクリエイティブスタジオ",
+    "category_raw": "AIテクノロジーパビリオン（ビジネスソ",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Kmood",
+    "category_raw": "AIテクノロジーパビリオン（ビジネスソ",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "ジール",
+    "category_raw": "AIテクノロジーパビリオン（ビジネスソ",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "シンキングデータ",
+    "category_raw": "AIテクノロジーパビリオン（ビジネスソ",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Studio51",
+    "category_raw": "AIテクノロジーパビリオン（ビジネスソ",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "HEROZ",
+    "category_raw": "AIテクノロジーパビリオン（ビジネスソ",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Final Aim",
+    "category_raw": "AIテクノロジーパビリオン（ビジネスソ",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "マイキャラ",
+    "category_raw": "AIテクノロジーパビリオン（ビジネスソ",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Meshy AI",
+    "category_raw": "AIテクノロジーパビリオン（ビジネスソ",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "ユビタス",
+    "category_raw": "AIテクノロジーパビリオン（ビジネスソ",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Atari",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "アドバーチャ",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "アドレア",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "アニメ KADOKAWA ライセンス",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "アマゾン ウェブ サービス ジャパン",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Around X Next Challenge",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "ESDigital Games",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "キプロス",
+    "online": false
+  },
+  {
+    "name": "EBANX",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "viviON",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Ultra Factory",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "SNK",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "XAC",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "Eliphant Japan",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Embassy of Canada to Japan",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "カナダ",
+    "online": false
+  },
+  {
+    "name": "OSJ",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Original Force",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Com2uS",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "CARTA ZERO",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "GungHo Online Entertainment / GRAVITY",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "キーワーズ・インターナショナル",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Gwangju Information & Content Agency",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "Kudos Productions",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "グリーホールディングス",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Globant",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "KOP Global",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Gamersky Games",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "ゲーム KADOKAWA ゲーム事業局",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Game Carrot",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Games from Spain",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "スペイン",
+    "online": false
+  },
+  {
+    "name": "ケムコ",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "講談社",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "KOREA PAVILION",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "コロプラ",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Cygames",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Side International Japan",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "英国",
+    "online": false
+  },
+  {
+    "name": "サファリゲームズ",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Samsung SSD",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "サン・フレア",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ジーアングル",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "GC Social Media",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "ジーン",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "松⽵",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Streamline Studios",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "SneakyBox",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "リトアニア",
+    "online": false
+  },
+  {
+    "name": "Century Games",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Tubular Labs",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "Jeonnam Information & Culture Industry Promotion Agency",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "Jeonbuk Global Game Center",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "2P Games",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "⾹港",
+    "online": false
+  },
+  {
+    "name": "ディー・エヌ・エー",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "DMM GAMES（EXNOA）",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Discord",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "⽶国",
+    "online": false
+  },
+  {
+    "name": "ディンプス",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Teyon Japan",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "東北新社",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "トーセ",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "トムス・エンタテインメント",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Dream Voice Studio",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "タイ",
+    "online": false
+  },
+  {
+    "name": "ドリコム",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "トリサン",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "⽇本貿易振興機構",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "任天堂",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "NAVER WEBTOON",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "韓国",
+    "online": false
+  },
+  {
+    "name": "Virtuos",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "シンガポール",
+    "online": false
+  },
+  {
+    "name": "Vertic Studios",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "マレーシア",
+    "online": false
+  },
+  {
+    "name": "バイキング",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ハピネット",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "バンダイナムコフィルムワークス",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "バンダイナムコフィルムワークス",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "PHI法律事務所",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "PQube",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "英国",
+    "online": false
+  },
+  {
+    "name": "プラチナゲームズ",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "フリュー",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "BLOOBER TEAM",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "ポーランド",
+    "online": false
+  },
+  {
+    "name": "French Delegation",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "フランス",
+    "online": false
+  },
+  {
+    "name": "Proxima Beta Europe",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "Project LONGQUAN",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "ベトナム",
+    "online": false
+  },
+  {
+    "name": "ヘキサドライブ",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "ポケットペア",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "MINELOADER STUDIOS",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "中国",
+    "online": false
+  },
+  {
+    "name": "MIXI",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "Microids",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "フランス",
+    "online": false
+  },
+  {
+    "name": "ミックス",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "MEGAXUS INFOTECH",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "インドネシア",
+    "online": false
+  },
+  {
+    "name": "ユークス",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "日本",
+    "online": false
+  },
+  {
+    "name": "United Kingdom Games",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "英国",
+    "online": false
+  },
+  {
+    "name": "LuxAria Games Studio",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "台湾",
+    "online": false
+  },
+  {
+    "name": "Red Art Games",
+    "category_raw": "ビジネスミーティングエリア",
+    "country": "フランス",
+    "online": false
+  }
+]
